@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\Presentacion\bin\Debug\BLL.dll
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\Presentacion\bin\Debug\ENTITY.dll
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\Presentacion\bin\Debug\DAL.dll
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\Presentacion\bin\Debug\BLL.pdb
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\Presentacion\bin\Debug\ENTITY.pdb
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\Presentacion\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\Presentacion\obj\Debug\Presentacion.pdb

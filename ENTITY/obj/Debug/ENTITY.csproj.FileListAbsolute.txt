@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\LENOVO\Documents\C#\Liquidacion_Cuota_Moderadora\ENTITY\obj\Debug\ENTITY.pdb
